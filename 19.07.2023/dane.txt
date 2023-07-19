@@ -1,0 +1,12 @@
+A;B;C
+Produkt;Kategoria;Cena (zł)
+Laptop;Elektronika;2500
+Buty;Moda;150
+Odkurzacz;AGD;400
+Telefon;Elektronika;1200
+Koszula;Moda;80
+Lodówka;AGD;1800
+Tablet;Elektronika;800
+Kamera;Elektronika;3000
+Spodnie;Moda;100
+Mikser;AGD;250
